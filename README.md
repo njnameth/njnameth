@@ -17,7 +17,7 @@ BI & Visualization: Tableau, Power BI, Canva.
 
 Tools & Platforms: Snowflake, Excel (Data Analysis/Solver), Qualtrics.
 
-Data Expertise: Data Cleaning, Feature Engineering, Predictive Modeling, .
+Data Expertise: Data Cleaning, Feature Engineering, Predictive Modeling.
 
 # Connect with Me
 - LinkedIn: [linkedin.com/in/njnameth](linkedin.com/in/njnameth)
