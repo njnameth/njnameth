@@ -4,6 +4,8 @@ I am working on my Masters of Science in Data Analytics from the University of W
 # Experience
 NWL Poster Project: Utilized random forests, EDA techniques, and seaborn-based visuals to identify the top metrics for describing success in the Northwoods League. Process metrics like hits or home runs, were not as crucial to success. [View the process in my repo!](https://github.com/njnameth/Northwoods-League-Player-Analysis)
 
+Fan Intelligence Pipeline: A simulated approach to my semester long project involving a local sports team. The pipeline extracts data from a Snowflake staging area, transforms & joins four different datasets with a Google Colab script, and outputs into a full fan profile for further use in visualization. [View the process in my repo!](https://github.com/njnameth/Sports-Fan-Intelligence-Pipeline)
+
 Healthcare Analytics Competition: Placed in a program-wide sprint to identify patient wait-time bottlenecks for a hypothetical healthcare provider. As a result of this achievement, I was selected to attend Microsoft FabCon 2026 in Atlanta.
 
 AWS Data Pipeline Architecture: This project addresses the challenges of managing inconsistent data flows and unstructured financial records. I designed a scalable AWS-based architecture to streamline the identification of potential company acquisitions by integrating financial ratios, historical bankruptcy data, and client records into a single source of truth. [View the process in my repo!](https://github.com/njnameth/AWS-Data-Pipeline-Architecture)
